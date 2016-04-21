@@ -1,0 +1,10 @@
+warssaw
+krakow
+gdansk
+lodz
+poznan
+szczecin
+wroclaw
+kielce
+torun
+radom
