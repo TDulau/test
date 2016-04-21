@@ -1,0 +1,6 @@
+paris
+marseille
+lyon
+dijon
+bordeaux
+toulouse
