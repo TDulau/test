@@ -1,0 +1,6 @@
+roma
+milan
+torino
+brescia
+bari
+venezia
