@@ -4,3 +4,5 @@ lyon
 dijon
 bordeaux
 toulouse
+lille
+strasbourg
