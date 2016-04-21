@@ -5,3 +5,7 @@ bordeaux
 toulouse
 lille
 strasbourg
+nantes
+limoges
+grenoble
+nimes
