@@ -9,3 +9,4 @@ strasbourg
 nantes
 limoges
 grenoble
+nimes
