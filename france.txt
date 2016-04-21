@@ -9,3 +9,4 @@ nantes
 limoges
 grenoble
 nimes
+paris
