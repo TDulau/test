@@ -1,0 +1,5 @@
+budapest
+debrecen
+pecs
+szeged
+gyor

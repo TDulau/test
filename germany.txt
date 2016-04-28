@@ -1,3 +1,5 @@
+augsburg
 berlin
 stuttgart
+lubeck
 hamburg
